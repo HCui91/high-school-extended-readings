@@ -1,0 +1,4 @@
+# ignore MacOS dir
+.DS_Store
+# ignore local PDF files
+PDFs
