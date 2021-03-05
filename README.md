@@ -105,7 +105,6 @@ Openly-accessible books for high school students who want to extend their readin
 - [Physics for Scientists and Engineers with Modern Physics 9th Edition](https://jsnegroup.net/data/GENERALPHYSICS(2)-Book_9thedition-Bookphy1019th-civilianteam.pdf) 
   
   包含绝大多数物理知识点的完整教科书，配图精美且介绍贴近生活。数学推导的部分尽量简略且有很多的 worked example，适合学生提前熟悉各个物理的方向。
-
 - [Robert's Introductory Physics I: Elementary Mechanics](https://webhome.phy.duke.edu/~rgb/Class/intro_physics_1/intro_physics_1.pdf)
   
    包含了经典力学的牛顿力学，稍有探讨流体力学的内容。
@@ -118,7 +117,6 @@ Openly-accessible books for high school students who want to extend their readin
   前几个 module 包含 A-Level 电路内容。
   
   - 注意：此教材中的电路图元件使用 IEEE 元器件标准化法，A-Level 以 IEC 标准为主。主要注意电阻丝 IEEE: 波浪/ IEC: 矩形 的区别。
-  
   - [Module 01 Introduction to Matter, Energy, and Direct Current](https://ia801902.us.archive.org/32/items/NEETSModule01/NEETSModule01.pdf)
   
     不同于物理教材，此教材从电和磁从哪里来开始，解释了物质中的电磁现象并引出电池的设计。后半段介绍了直流电系统以及电路安全。
