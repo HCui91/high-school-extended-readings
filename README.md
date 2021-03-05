@@ -125,6 +125,9 @@ Openly-accessible books for high school students who want to extend their readin
   - [Module 2: Introduction to Alternating Current and Transformers](https://ia803202.us.archive.org/24/items/NEETSModule02/NEETSModule02.pdf)
     
     交流电源、Resistor-Inductor-Capacitor (RLC) 电路和变压器的实际运行情况。
+- [Introduction to Electrodynamics](https://hansandcassady.org/David%20J.%20Griffiths-Introduction%20to%20Electrodynamics-Addison-Wesley%20(2012).pdf)
+  
+  格里菲斯的电动力学导论，其中包含大学本科物理专业电动力学的基本内容。与CIE物理不同，电动力学会使用更多的向量方程/微积分/微分方程来解决随时间变化的电磁场问题。
 - [费曼物理学讲义](https://www.feynmanlectures.caltech.edu/)
   
   物理学最经典的教科书，亲临大佬费曼的课
@@ -174,6 +177,33 @@ Openly-accessible books for high school students who want to extend their readin
 这里的编程不仅仅是给准备考取计算机/信息科学的学生而准备的！
 
 目前的大学本科课程，基本所有的科学/工程院系都会从大一就开设编程课程，编程语言主要有C/C++/Java/**Python**/matlab/Mathematica。作者推荐高中生开始尝试使用Python编程解决一些简单的数值计算和数据可视化问题。
+
+- [廖雪峰 Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
+  
+  中文圈著名的互联网Python教材。每天花费半小时学Python。作为Python/计算机编程入门教程，包含了很多基础的网络通信/进程线程/HTTP协议的介绍。
+- [Python for Computational Science and Engineering](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
+  
+  面向计算科学和工程的Python教材：从最基础的数据类型开始，写一个小函数，然后用`matplotlib`可视化函数。简单但实用！
+- [Fundamentals of Python Programming](https://ia800704.us.archive.org/7/items/2018Fundamentals.ofPython/2018_fundamentals.of-python.pdf)
+
+  更为基础的Python编程教材。涉及更多的基础编程知识，如何写一些常见的方法（迭代、递归、类、BFS/DFS等算法）。很多的实例代码和输出让学生更好的理解算法原理。
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+  
+  注重数据科学的Python教程。需要有基础Python知识和环境。适合数据科学学生提前学习其中的方法。
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+  利用Python简化工作流程，是一个有趣的读物。学习Python或许是无趣的，但是利用Python来减少无趣的重复性操作或许会让你喜欢上Python编程。
+  - Search for text in a file or across multiple files
+  - Create, update, move, and rename files and folders
+  - Search the Web and download online content
+  - Update and format data in Excel spreadsheets of any size
+  - Split, merge, watermark, and encrypt PDFs
+  - Send reminder emails and text notifications
+  - Fill out online forms
+- [Quantitative Economics with
+Python](https://python.quantecon.org/_downloads/pdf/quantitative_economics_with_python.pdf)
+
+  用Python学习计量经济学。有趣的教材，前半段利用Python中的`scipy`和`matplotlib`来计算和可视化学习数学概念。后半段则是学习计量经济学中的概念并使用Python探讨理论里的数值解。
 
 ## 关于此项目
 
