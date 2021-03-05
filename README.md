@@ -12,10 +12,37 @@ Openly-accessible books for high school students who want to extend their readin
 
 ## 数学
 ### 阅读材料
+- Miscellaneous - 综合教材
+  - [Mathematical Methods for Physics and Engineering](http://www.astrosen.unam.mx/~aceves/Metodos/ebooks/riley_hobson_bence.pdf) 
+  
+    [PDFDrive 下载链接](https://www.pdfdrive.com/mathematical-methods-for-physics-and-engineering-a-comprehensive-guide-3rd-edition-e165237990.html)
+
+    此教材中的数学基本涵盖大学物理中所有会用到的数学技巧与方法。除了代数和微积分的内容，学生可以尝试提前学习 Ordinary Differential Equations (ODEs) (chapter 14-17)，微分方程为物理学中很重要的数学表示方法。而微分方程的解常常是描述一个系统的"状态方程"。
+    
+    17章的 *Eigenfunction methods for diﬀerential equations* 更是将线性代数与微分方程相融合，掌握后可解决更为复杂的物理系统问题。
+  
+  - [Higher Mathematics for Physics and Engineering](https://www.springer.com/gp/book/9783540878636)
+
+    [PDFDrive 下载链接](https://www.pdfdrive.com/higher-mathematics-for-physics-and-engineering-mathematical-methods-for-contemporary-physics-e184129632.html)
+
+    不同于上本书，这本教材从**数学分析方法**的几个大方向介绍物理/工程中的数学：
+    
+    1. Real Analysis - 实分析: 处理实数及实函数的数学分析。专门实数函数及数列的解析特性，包括实数数列的极限，实函数的微分及积分、连续性，光滑性以及其他相关性质。
+    2. Functional Analysis - 泛函(functional, function是函数)分析: 分析函数构成的函数空间。泛函分析历史根源是由对函数空间的研究和对函数的变换（如傅立叶变换等）的性质的研究。这种观点被证明是对微分方程和积分方程的研究中特别有用。
+    3. Complex Analysis - 复分析: 研究中常用的理论、公式以及方法包括柯西(Cauchy)积分定理、柯西积分公式、留数定理、洛朗级数展开等
+    4. Fourier Analysis - 傅立叶分析: 近代发展很快的分析分支。主要研究如何将一个函数或者信号表达为基本波形的叠加，并在诸多领域得到广泛应用，如信号处理、量子力学、神经科学等。
+    5. Diﬀerential Equations - 微分方程: 微分方程的应用十分广泛，可以解决许多与导数有关的问题。物理中许多涉及时间变量的运动学、动力学问题，如空气的阻力为速度函数的落体运动等问题，很多可以用微分方程求解。此外，微分方程在化学、工程学、经济学和人口统计等领域都有应用。
+    6. Tensor Analyses - 张量分析: 张量是一个可用来表示在一些矢量、标量和其他张量之间的线性关系的多线性函数，这些线性关系的基本例子有内积、外积、线性映射以及笛卡儿积。张量分析常用于物理系统，例如广义相对论的度量张量 metric tensor 和电磁学的电磁场张量 electromagnetic field tensor.
+
 - Calculus - 微积分
   - [Calculus made easy](https://calculusmadeeasy.org/)
 
     简洁的微积分入门
+  
+  - [Advanced Calculus](http://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf)
+
+    进阶微积分教材，内容对于高中生会比较晦涩难懂。Chapter 14 使用数学方法重新推导经典理论力学的理论，非常硬核。
+
 - Algebra - 代数
 - Linear Algebra - 线性代数
 - Statistics - 统计学
@@ -26,6 +53,14 @@ Openly-accessible books for high school students who want to extend their readin
   - [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf)
 
     吴恩达的机器学习课程笔记。他在 Stanford 2013-2014学年的机器学习课程最高超过800名学生选修，以至于大多数学生只能通过网课学习这门课程。
+
+  - [Mathematics for Machine Learning](https://mml-book.github.io/)
+  
+    Github上开源的机器学习数学教材。章节简洁且贴合实际使用。
+    
+    先介绍数学基础：线性代数、几何学、向量微积分和概率论
+    
+    然后重点介绍机器学习中常见的数学：线性回归、多维数据的降维、高斯混合模型(GMM)和支持向量机(SVM).
 
 ### 学科竞赛
 - [International Mathematical Olympiad](https://www.imo-official.org/) (IMO)
@@ -70,9 +105,7 @@ Openly-accessible books for high school students who want to extend their readin
 - [Physics for Scientists and Engineers with Modern Physics 9th Edition](https://jsnegroup.net/data/GENERALPHYSICS(2)-Book_9thedition-Bookphy1019th-civilianteam.pdf) 
   
   包含绝大多数物理知识点的完整教科书，配图精美且介绍贴近生活。数学推导的部分尽量简略且有很多的 worked example，适合学生提前熟悉各个物理的方向。
-- [Mathematical Methods for Physics and Engineering](http://www.astrosen.unam.mx/~aceves/Metodos/ebooks/riley_hobson_bence.pdf) 
 
-  此教材中的数学基本涵盖大学物理中所有会用到的数学技巧与方法。学生可以尝试提前学习 Ordinary Differential Equations (ODEs)，微分方程为物理学中很重要的数学表示方法。而微分方程的解常常是描述一个系统的"状态方程"。
 - [Robert's Introductory Physics I: Elementary Mechanics](https://webhome.phy.duke.edu/~rgb/Class/intro_physics_1/intro_physics_1.pdf)
   
    包含了经典力学的牛顿力学，稍有探讨流体力学的内容。
@@ -136,6 +169,11 @@ Openly-accessible books for high school students who want to extend their readin
 
 
 ## 化学
+
+## 编程
+这里的编程不仅仅是给准备考取计算机/信息科学的学生而准备的！
+
+目前的大学本科课程，基本所有的科学/工程院系都会从大一就开设编程课程，编程语言主要有C/C++/Java/**Python**/matlab/Mathematica。作者推荐高中生开始尝试使用Python编程解决一些简单的数值计算和数据可视化问题。
 
 ## 关于此项目
 
